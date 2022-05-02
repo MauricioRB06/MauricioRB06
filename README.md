@@ -22,7 +22,7 @@ Besides video game programming, I have a huge interest in other fields in the in
 <a href="https://mauriciorb06.github.io/" target="_blank"><img height="55" src="https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/Portfolio.png"></a>
 </p>
 
-## <img height="30" src="https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/Knowledge.gif"> My Knowledge
+## <img height="30" src="https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/My_Knowledge.gif"> My Knowledge
 
 <br>
 
@@ -32,7 +32,7 @@ Besides video game programming, I have a huge interest in other fields in the in
 
 
 
-⠀⠀⠀⠀⠀⠀⠀<img height="30" src = 'https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/C.png'> <img height="30" src = 'https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/CPP.png'> <img height="30" src = 'https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/CSharp.png'> <img height="30" src = 'https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/Python.png'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img height="30" src = 'https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/OpenGL.png'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img height="30" src = 'https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/FireBase.png'>
+⠀⠀⠀⠀⠀⠀⠀<img height="30" src = 'https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/C.png'> <img height="30" src = 'https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/Cpp.png'> <img height="30" src = 'https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/CSharp.png'> <img height="30" src = 'https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/Python.png'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img height="30" src = 'https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/OpenGL.png'>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img height="30" src = 'https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/FireBase.png'>
 
 
 ⠀⠀⠀⠀🎮 Game Engines⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🕹️ Frameworks⠀⠀⠀⠀⠀⠀⠀⠀💡 Others<br>
