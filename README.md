@@ -19,7 +19,7 @@ Besides video game programming, I have a huge interest in other fields in the in
 <br><br>
 
 <p align="right">
-<a href="https://mauriciorb06.itch.io/" target="_blank"><img height="55" src="https://github.com/MauricioRB06/MauricioRB06/blob/f205795d8aac61e5eaed0e2dcc3737d480fd136a/Assets/Portfolio.png"></a>
+<a href="https://mauriciorb06.itch.io/" target="_blank"><img height="55" src="https://github.com/MauricioRB06/MauricioRB06/blob/59e6f90507b098d6a7ea2f4e0eb16f28ace58302/Assets/Portfolio.png"></a>
 </p>
 
 ## <img height="30" src="https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/My_Knowledge.gif"> My Knowledge
