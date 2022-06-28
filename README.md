@@ -11,7 +11,7 @@
 <img align="left" width=20% src="https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/Pepe.gif">
 
 <p p style='text-align: right;'>
-Hi, I am a mechatronics engineering student at the National University of Colombia⠀<img height="15" src="[https://github.com/MauricioRB06/MauricioRB06/blob/7ded741dd5bb011b483771aba5c00503ac68a33f/Assets/Readme_UNLogo.png](https://github.com/MauricioRB06/MauricioRB06/blob/8516184eb49bebf3530f0988dc5a621db88cd710/Assets/Unal.png)">⠀<img height="10" src="https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/Colombia.png"> , who enjoys writing code, solving problems, automating tasks and building software, I am currently focused on learning about video game development, as it is what I am most passionate about.
+Hi, I am a mechatronics engineering student at the National University of Colombia⠀<img height="15" src="https://github.com/MauricioRB06/MauricioRB06/blob/8516184eb49bebf3530f0988dc5a621db88cd710/Assets/Unal.png">⠀<img height="10" src="https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/Colombia.png"> , who enjoys writing code, solving problems, automating tasks and building software, I am currently focused on learning about video game development, as it is what I am most passionate about.
 <br><br>
 Besides video game programming, I have a huge interest in other fields in the industry such as GameDesign or VFX and in other areas of programming such as Machine Learning.
 </p>
