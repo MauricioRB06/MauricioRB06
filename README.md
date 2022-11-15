@@ -4,7 +4,7 @@
 
 </p>
 
-<img width=1000 alt="MauricioRB06" src="https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/Banner.gif">
+<img width=100% alt="MauricioRB06" src="https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/Banner.gif">
 
 ## <img height="30" src="https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/About_Me.gif"> About Me
 
