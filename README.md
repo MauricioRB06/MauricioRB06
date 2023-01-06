@@ -19,7 +19,7 @@ Besides video game programming, I have a huge interest in other fields in the in
 <br><br>
 
 <p align="right">
-<a href="https://mauriciorb06.itch.io/" target="_blank"><img height="55" src="https://github.com/MauricioRB06/MauricioRB06/blob/59e6f90507b098d6a7ea2f4e0eb16f28ace58302/Assets/Portfolio.png"></a>
+<a href="https://mauriciorb06.itch.io/" title="Go To My Portfolio Page"><img height="55" src="https://github.com/MauricioRB06/MauricioRB06/blob/59e6f90507b098d6a7ea2f4e0eb16f28ace58302/Assets/Portfolio.png"></a>
 </p>
 
 ## <img height="30" src="https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/My_Knowledge.gif"> My Knowledge
@@ -57,25 +57,25 @@ Besides video game programming, I have a huge interest in other fields in the in
 <br>
 <br>
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06" title="Developed as a technical test for Efecto Studios.">Pizza Moon</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/SirCatknight_Prototype" title="">SirCatknight Prototype</a>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06" title="Developed as a Technical Test for Efecto Studios">Pizza Moon</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/SirCatknight_Prototype" title="Metroidvania-Style Game">SirCatknight Prototype</a>
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06" title="">Decandence Show</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/TalisJourney" title="">Talis Jorney</a>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06" title="Developed for the Monarca GameJam 2022">Decandence Show</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/TalisJourney" title="Developed for the GMTK GameJam 2022">Talis Jorney</a>
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06" title="">Meowventures</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/Bogota_Citizen_Chaos" title="">Bogota Citizen Chaos</a>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06" title="Developed for the Epic GameJam 2022">Meowventures</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/Bogota_Citizen_Chaos" title="Developed for the Sabana GameJam 2022">Bogota Citizen Chaos</a>
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/UE5BlockoutTools" title="">Blockout Tools UE5</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/AlienFarm" title="">Alien Farm</a>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/UE5BlockoutTools" title="Tools for Level Blockout in Unreal Engine 5">Blockout Tools UE5</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/AlienFarm" title="Arcade-Style Game">Alien Farm</a>
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/UE4BlockoutTools" title="">Blockout Tools UE4</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/FPS_CSUN" title="">FPS CSUN</a>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/UE4BlockoutTools" title="Tools for Level Blockout in Unreal Engine 4">Blockout Tools UE4</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/FPS_CSUN" title="FPS Developed with Bolt for Computer Society UN Introduction to Unity Course">FPS CSUN</a>
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/Duck_Hunter" title="">Duck Hunter</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/UAN_Labs" title="">UAN Labs</a>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/Duck_Hunter" title="Project to Test the Chaos Physics Engine of Unreal Engine 5">Duck Hunter</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/UAN_Labs" title="Educational Virtual Labs">UAN Labs</a>
 
 <br>
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🎮 ***C++⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🎮 Pygame⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⚙ Others***
 <br>
 <br>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06" title="">Mini Arcade</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/RacingUNy" title="">Racing UN</a>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06" title="Retro Video Game Console in the Command Terminal">Mini Arcade</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/RacingUNy" title="TrafficRacer-Style Game">Racing UN</a>
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06" title="">Dungeon Solver</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06ing/MazeWar" title="">Maze War</a>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06" title="Labyrinths Game in the Command Terminal">Dungeon Solver</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06ing/MazeWar" title="Maze Generator Using Data Structures">Maze War</a>
 
 <br>
