@@ -68,7 +68,7 @@ Besides video game programming, I have a huge interest in other fields in the in
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/UE4BlockoutTools" target="_blank">Blockout Tools UE4</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/FPS_CSUN" target="_blank">FPS CSUN</a>
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/Duck_Hunter" target="_blank">Duck Hunter</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/UAN_Labs" target="_blank">UAN Labs</a>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/Duck_Hunter" target="_blank">Duck Hunter</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/UAN_Labs" target="_blank">UAN Labs</a>
 
 <br>
 
@@ -78,3 +78,6 @@ Besides video game programming, I have a huge interest in other fields in the in
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06" target="_blank">Mini Arcade</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/RacingUNy" target="_blank">Racing UN</a>
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06" target="_blank">Dungeon Solver</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06ing/MazeWar" target="_blank">Maze War</a>
+
+<br>
+<br>
