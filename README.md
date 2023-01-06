@@ -58,7 +58,7 @@ Besides video game programming, I have a huge interest in other fields in the in
 <br>
 <br>
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06" title="Developed as a technical test for Efecto Studios." rel="noopener">Pizza Moon</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/SirCatknight_Prototype" target="_blank">SirCatknight Prototype</a>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06" title="Developed as a technical test for Efecto Studios." target="_SEJ" rel="noreferrer">Pizza Moon</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/SirCatknight_Prototype" target="_blank">SirCatknight Prototype</a>
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06" target="_blank">Decandence Show</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/TalisJourney" target="_blank">Talis Jorney</a>
 
