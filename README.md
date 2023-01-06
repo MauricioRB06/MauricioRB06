@@ -41,8 +41,7 @@ Besides video game programming, I have a huge interest in other fields in the in
 ## <img height="30" src="https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/Contact_Me.gif"> Contact me
 
 <h3 align="center">
-
-<a href="https://www.linkedin.com/in/mauricio-rodr%C3%ADguez-becerra-bb7626126/" target="_blank"><img height="45" src="https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/LinkedIn.png"></a>⠀⠀⠀<a href="mailto:mrodriguezbec@unal.edu.co" target="_blank"><img height="45" src="https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/Email.png"></a>⠀⠀⠀<a href="https://www.youtube.com/channel/UCOgoqQgsBBKfi7ku-XTig_g"><img height="45" src="https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/YouTube.png"></a>
+<a href="https://www.linkedin.com/in/mauricio-rodr%C3%ADguez-becerra-bb7626126/" title="Contact me on LinkedIn"><img height="45" src="https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/LinkedIn.png"></a>⠀⠀⠀<a href="mailto:mrodriguezbec@unal.edu.co" title="Send me an Email"><img height="45" src="https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/Email.png"></a>⠀⠀⠀<a href="https://www.youtube.com/channel/UCOgoqQgsBBKfi7ku-XTig_g" title="Go to my YouTube channel"><img height="45" src="https://github.com/MauricioRB06/MauricioRB06/blob/22208bb6a882ece00d2e516b358bf5d5b41a0875/Assets/YouTube.png"></a>
 
 </h3>
 
@@ -58,25 +57,25 @@ Besides video game programming, I have a huge interest in other fields in the in
 <br>
 <br>
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06" title="Developed as a technical test for Efecto Studios." target="_SEJ" rel="noreferrer">Pizza Moon</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/SirCatknight_Prototype" target="_blank">SirCatknight Prototype</a>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06" title="Developed as a technical test for Efecto Studios.">Pizza Moon</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/SirCatknight_Prototype" title="">SirCatknight Prototype</a>
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06" target="_blank">Decandence Show</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/TalisJourney" target="_blank">Talis Jorney</a>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06" title="">Decandence Show</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/TalisJourney" title="">Talis Jorney</a>
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06" target="_blank">Meowventures</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/Bogota_Citizen_Chaos" target="_blank">Bogota Citizen Chaos</a>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06" title="">Meowventures</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/Bogota_Citizen_Chaos" title="">Bogota Citizen Chaos</a>
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/UE5BlockoutTools" target="_blank">Blockout Tools UE5</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/AlienFarm" target="_blank">Alien Farm</a>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/UE5BlockoutTools" title="">Blockout Tools UE5</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/AlienFarm" title="">Alien Farm</a>
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/UE4BlockoutTools" target="_blank">Blockout Tools UE4</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/FPS_CSUN" target="_blank">FPS CSUN</a>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/UE4BlockoutTools" title="">Blockout Tools UE4</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/FPS_CSUN" title="">FPS CSUN</a>
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/Duck_Hunter" target="_blank">Duck Hunter</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/UAN_Labs" target="_blank">UAN Labs</a>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/Duck_Hunter" title="">Duck Hunter</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/UAN_Labs" title="">UAN Labs</a>
 
 <br>
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🎮 ***C++⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🎮 Pygame⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⚙ Others***
 <br>
 <br>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06" target="_blank">Mini Arcade</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/RacingUNy" target="_blank">Racing UN</a>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06" title="">Mini Arcade</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/RacingUNy" title="">Racing UN</a>
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06" target="_blank">Dungeon Solver</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06ing/MazeWar" target="_blank">Maze War</a>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06" title="">Dungeon Solver</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06ing/MazeWar" title="">Maze War</a>
 
 <br>
