@@ -80,4 +80,3 @@ Besides video game programming, I have a huge interest in other fields in the in
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06" target="_blank">Dungeon Solver</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06ing/MazeWar" target="_blank">Maze War</a>
 
 <br>
-<br>
