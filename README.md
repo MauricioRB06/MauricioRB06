@@ -54,13 +54,13 @@ Besides video game programming, I have a huge interest in other fields in the in
 
 <br>
 
-ㅤㅤㅤㅤㅤ🎮 Unreal Engineㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🎮 Unity Engineㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🎮 Godot Engine
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🎮 Unreal Engineㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🎮 Unity Engineㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🎮 Godot Engine
    <br>
           <a href="https://github.com/MauricioRB06/Duck_Hunter" target="_blank">Duck Hunter</a>                     <a href="https://github.com/MauricioRB06/TalisJourney" target="_blank">Talis Jorney</a>
           <a href="https://github.com/MauricioRB06/UE4BlockoutTools" target="_blank">Blockout Tools UE4</a>         <a href="https://github.com/MauricioRB06/AlienFarm" target="_blank">Alien Farm</a>
           <a href="https://github.com/MauricioRB06/UE5BlockoutTools" target="_blank">Blockout Tools UE5</a>         <a href="https://github.com/MauricioRB06/MrJump" target="_blank">Mr Jump</a>
     <br>
     <br>
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🎮 C++                              🎮 Pygame                        ⚙ Others
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🎮 C++ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🎮 Pygameㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ⚙ Others
     <br>
           <a href="https://github.com/MauricioRB06/RacingUN" target="_blank">Mini Arcade</a>                      <a href="https://github.com/MauricioRB06/RacingUNy" target="_blank">Racing UN</a>
