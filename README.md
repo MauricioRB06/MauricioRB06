@@ -54,13 +54,14 @@ Besides video game programming, I have a huge interest in other fields in the in
 
 <br>
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🎮 ***Unreal Engine***⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🎮 ***Unity Engine***⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🎮 Godot Engine
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🎮 ***Unreal Engine⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🎮 Unity Engine⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🎮 Godot Engine***
 <br>
 <br>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/Duck_Hunter" target="_blank">Duck Hunter</a>⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/TalisJourney" target="_blank">Talis Jorney</a>
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://github.com/MauricioRB06/UE4BlockoutTools" target="_blank">Blockout Tools UE4</a>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://github.com/MauricioRB06/AlienFarm" target="_blank">Alien Farm</a>
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://github.com/MauricioRB06/UE5BlockoutTools" target="_blank">Blockout Tools UE5</a>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://github.com/MauricioRB06/MrJump" target="_blank">Mr Jump</a>
-[Duck Hunter](https://github.com/MauricioRB06/Duck_Hunter “Duck Hunter UE5”)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/Duck_Hunter" target="_blank">Duck Hunter</a>⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/TalisJourney" target="_blank">Talis Jorney</a>
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/UE4BlockoutTools" target="_blank">Blockout Tools UE4</a>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://github.com/MauricioRB06/AlienFarm" target="_blank">Alien Farm</a>
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/UE5BlockoutTools" target="_blank">Blockout Tools UE5</a>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://github.com/MauricioRB06/MrJump" target="_blank">Mr Jump</a>
 
 <br>
 <br>
