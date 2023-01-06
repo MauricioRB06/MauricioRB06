@@ -54,7 +54,7 @@ Besides video game programming, I have a huge interest in other fields in the in
 
 <br>
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🎮 <font size="7">Unreal Engine</font>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🎮 Unity Engine⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🎮 Godot Engine
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🎮 **Unreal Engine**⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🎮 Unity Engine⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🎮 Godot Engine
 <br>
 <br>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/Duck_Hunter" target="_blank">Duck Hunter</a>⠀⠀⠀⠀⠀⠀<a href="https://github.com/MauricioRB06/TalisJourney" target="_blank">Talis Jorney</a>
